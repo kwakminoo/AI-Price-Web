@@ -1,3 +1,5 @@
+~~~
+
 // File: src/TokenPriceApp.tsx
 import React, { useMemo, useState } from "react";
 
@@ -1154,3 +1156,6 @@ export default function TokenPriceApp() {
     </div>
   );
 }
+
+
+~~~
